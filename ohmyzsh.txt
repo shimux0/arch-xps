@@ -1,0 +1,4 @@
+install
+i
+get classyTouch
+sudo ln -s /usr/share/zsh/plugins/zsh-autosuggestions $ZSH/plugins/

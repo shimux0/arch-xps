@@ -1,0 +1,3 @@
+paru
+
+paru -S caelestia-shell
