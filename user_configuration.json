@@ -302,6 +302,7 @@
         "curl",
         "dust",
         "eza",
+        "fastfetch",
         "fd",
         "firewalld",
         "fish",

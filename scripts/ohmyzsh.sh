@@ -11,4 +11,4 @@ sudo pacman -S zsh-syntax-highlighting
 sudo ln -s /usr/share/zsh/plugins/zsh-autosuggestions $ZSH/plugins/
 sudo ln -s /usr/share/zsh/plugins/zsh-syntax-highlighting $ZSH/plugins/
 
-cp /etc/skel/.zshrc ~/.zshrc
+cp /etc/skel/.zshrc $HOME/.zshrc
