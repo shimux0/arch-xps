@@ -304,6 +304,7 @@
         "eza",
         "fd",
         "firewalld",
+        "fish",
         "fwupd",
         "fzf",
         "greetd",
@@ -344,6 +345,7 @@
         "xdg-user-dirs",
         "xorg-server",
         "xorg-xinit",
+        "zsh",
         "zoxide",
         "xdg-utils"
     ],

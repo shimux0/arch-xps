@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 sudo pacman -S --needed base-devel
 
 cd /tmp
