@@ -1,5 +1,6 @@
-#!/usr/bin/bash
+sudo pacman -S --needed base-devel
 
-paru
-paru -S caelestia-cli
-paru -S caelestia-shell
+cd /tmp
+git clone https://aur.archlinux.org/paru.git
+cd paru
+makepkg -si
